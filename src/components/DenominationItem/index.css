@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.denomination-item {
+  list-style-type: none;
+  width: 49%;
+  margin-bottom: 15px;
+  font-family: 'Roboto';
+}
+
+.btn {
+  background-color: #382f5a;
+  font-size: 16px;
+  font-weight: 900;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #c4c4c4;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  padding: 14px;
+}

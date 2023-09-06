@@ -1,0 +1,81 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+
+.withdrawal-container {
+  background-color: #150b3e;
+  max-width: 400px;
+  padding: 24px 18px 8px 18px;
+  border-radius: 16px;
+  width: 90%;
+}
+
+.slice {
+  background-color: #c7d2fe;
+  height: 60px;
+  width: 60px;
+  font-size: 18px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
+
+.details-con {
+  display: flex;
+}
+
+.name {
+  color: #d4d2db;
+  font-size: 22px;
+  font-weight: 500;
+  align-self: center;
+  margin-left: 24px;
+}
+
+.your-balance {
+  color: #585076;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.balance-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+.balance {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 700;
+}
+.rupee {
+  color: #585076;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.withdrawal {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.sum {
+  color: #585076;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
